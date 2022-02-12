@@ -1,4 +1,4 @@
-# Welcome !
+# Welcome to this Java projects portfolio!
 
 This GitHub repository contains the projects done to achieve the OpenClassrooms path in order to obtain the Java application developer certificate (Développeur d'application Java)
 
