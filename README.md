@@ -32,36 +32,38 @@ Project 5 - SafetyNet :
 - Spring Boot Framework
 - MVC architecture
 - API REST
-- MySQL sgbd
 - SOLID principles
 
 Project 6 - PayMyBuddy:
 - UML diagrams
-- Database management
+- Relational Databases
 - SQL language
 - PostgreSQL sgbd
-- Database Transactions management
+- CRUD implementation
 - JDBC : Java DataBase Connection
-- Object Relational Mapping : JPA / Hibernate 
+- Object Relational Mapping : JPA (Java Persistence API) + Hibernate 
+- Database Transactions management
 - Factory Design Pattern
 - Repository Design Pattern
 
 Project 7 - Poseidon :
-- CRUD implementation
-- PostgreSQL sgbd
 - FrontEnd implementation using HTML, CSS and BootStrap
 - Thymeleaf template engine
+- MySQL sgbd
 - Spring DataJpa
 - Spring Security
 
 Project 8 - TourGuide :
 - Distributed systems
 - Docker / Docker Compose / Docker Network
-- Multi threading 
+- Lambdas & Streams
+- Multi threading
 - Asynchron programming
 - Reactive programming
 - Gradle
 
 Project 9 - Mediscreen :
 - Microservices
+- NoSQL Databases
+- MongoDB sgbd
 - Agile methods with several Sprints for project management
