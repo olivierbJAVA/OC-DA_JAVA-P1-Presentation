@@ -4,7 +4,7 @@ This GitHub repository contains the projects done to achieve the OpenClassrooms 
 
 You will find attached :
 - a presentation of the path and the projects
-- the achievement certificates for all lessons done during the path
+- the achievement certificates for all courses done during the path
 
 The main new topics, technologies and concepts learned and used for each project are the following :
 
@@ -16,7 +16,7 @@ Project 2 :
 - Strategy Design Pattern
 
 Project 3 :
-- Project Management with Agile / Scrum methods
+- Project Management using Agile / Scrum methods
 - Domain Driven Design
 - User Stories / Backlog / Wireframes
 
@@ -26,7 +26,7 @@ Project 4 :
 - Integration Tests
 - Mocking
 - Debugging
-- Maven for project management
+- Maven
 
 Project 5 :
 - Spring Boot Framework
@@ -49,8 +49,8 @@ Project 6 :
 Project 7 :
 - CRUD implementation
 - PostgreSQL sgbd
-- FrontEnd implementation using HTML, CSS, BootStrap
-- Thymeleaf as template engine
+- FrontEnd implementation using HTML, CSS and BootStrap
+- Thymeleaf template engine
 - Spring DataJpa
 - Spring Security
 
@@ -60,8 +60,8 @@ Project 8 :
 - Multi threading 
 - Asynchron programming
 - Reactive programming
-- Gradle for project management
+- Gradle
 
 Project 9 :
 - Microservices
-- Agile methods for development with several Sprints
+- Agile methods with several Sprints for project management
