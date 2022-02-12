@@ -64,4 +64,4 @@ Project 8 :
 
 Project 9 :
 - Microservices
-- Agile methods of development with several Sprints
+- Agile methods for development with several Sprints
