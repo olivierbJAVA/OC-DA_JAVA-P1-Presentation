@@ -8,19 +8,19 @@ You will find attached :
 
 The main new topics, technologies and concepts learned and used for each project are the following :
 
-Project 2 :
+Project 2 - HemeBiotech :
 - Java language
 - Object Oriented Programming
 - Algorithms
 - Git & GitHub
 - Strategy Design Pattern
 
-Project 3 :
+Project 3 - FuzeScrum :
 - Project Management using Agile / Scrum methods
 - Domain Driven Design
 - User Stories / Backlog / Wireframes
 
-Project 4 :
+Project 4 - ParkIt :
 - Tests theory (Pyramid of tests / Test Driven Development)
 - Unit Tests
 - Integration Tests
@@ -28,14 +28,14 @@ Project 4 :
 - Debugging
 - Maven
 
-Project 5 :
+Project 5 - SafetyNet :
 - Spring Boot Framework
 - MVC architecture
 - API REST
 - MySQL sgbd
 - SOLID principles
 
-Project 6 :
+Project 6 - PayMyBuddy:
 - UML diagrams
 - Database management
 - SQL language
@@ -46,7 +46,7 @@ Project 6 :
 - Factory Design Pattern
 - Repository Design Pattern
 
-Project 7 :
+Project 7 - Poseidon :
 - CRUD implementation
 - PostgreSQL sgbd
 - FrontEnd implementation using HTML, CSS and BootStrap
@@ -54,7 +54,7 @@ Project 7 :
 - Spring DataJpa
 - Spring Security
 
-Project 8 :
+Project 8 - TourGuide :
 - Distributed systems
 - Docker / Docker Compose / Docker Network
 - Multi threading 
@@ -62,6 +62,6 @@ Project 8 :
 - Reactive programming
 - Gradle
 
-Project 9 :
+Project 9 - Mediscreen :
 - Microservices
 - Agile methods with several Sprints for project management
