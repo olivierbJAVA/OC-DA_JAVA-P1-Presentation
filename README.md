@@ -10,8 +10,8 @@ The main new topics / technologies learned and used for each project are the fol
 
 Project 2 :
 - Java langage
-- Object Oriented Programmation
-- Algorithmic
+- Object Oriented Programming
+- Algorithms
 - Git & GitHub
 - Strategy Design Pattern
 
@@ -21,7 +21,7 @@ Project 3 :
 - User Stories / Backlog / Wireframes
 
 Project 4 :
-- Tests theory (Test pyramid / Test Driven Development)
+- Tests theory (Pyramid of tests / Test Driven Development)
 - Unit Tests
 - Integration Tests
 - Mocking
@@ -29,7 +29,7 @@ Project 4 :
 - Maven for poject management
 
 Project 5 :
-- Framework Spring Boot
+- Spring Boot Framework
 - MVC architecture
 - API REST
 - MySQL sgbd
@@ -40,7 +40,7 @@ Project 6 :
 - Database management
 - SQL lanagage
 - PostgreSQL sgbd
-- Transactions management
+- Database Transactions management
 - JDBC : Java DataBase Connection
 - Object Relational Mapping : JPA / Hibernate 
 - Factory Design Pattern
@@ -48,10 +48,10 @@ Project 6 :
 
 Project 7 :
 - CRUD implementation
-- PostgreSQL
+- PostgreSQL sgbd
 - FrontEnd implementation using HTML, CSS, BootStrap
 - Thymeleaf as template engine
-- Spring Data Jpa
+- Spring DataJpa
 - Spring Security
 
 Project 8 :
@@ -60,7 +60,7 @@ Project 8 :
 - Multi threading 
 - Asynchron programming
 - Reactive programming
-- Gradle for poject management
+- Gradle for project management
 
 Project 9 :
 - Microservices
