@@ -6,10 +6,10 @@ You will find attached :
 - a presentation of the path and the projects
 - the achievement certificates for all lessons done during the path
 
-The main new topics / technologies learned and used for each project are the following :
+The main new topics, technologies and concepts learned and used for each project are the following :
 
 Project 2 :
-- Java langage
+- Java language
 - Object Oriented Programming
 - Algorithms
 - Git & GitHub
@@ -26,7 +26,7 @@ Project 4 :
 - Integration Tests
 - Mocking
 - Debugging
-- Maven for poject management
+- Maven for project management
 
 Project 5 :
 - Spring Boot Framework
@@ -38,13 +38,13 @@ Project 5 :
 Project 6 :
 - UML diagrams
 - Database management
-- SQL lanagage
+- SQL language
 - PostgreSQL sgbd
 - Database Transactions management
 - JDBC : Java DataBase Connection
 - Object Relational Mapping : JPA / Hibernate 
 - Factory Design Pattern
-- Rspository Desgin Pattern
+- Repository Design Pattern
 
 Project 7 :
 - CRUD implementation
